@@ -5,8 +5,7 @@ import java.util.Scanner;
 
 public class Task2 {
     public static void main(String[] args) {
-        int a = 0;
-        int b = 0;
+        int a, b;
 
         Scanner sc = new Scanner(System.in);
 
